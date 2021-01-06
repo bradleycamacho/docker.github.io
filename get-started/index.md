@@ -23,7 +23,7 @@ redirect_from:
 - /engine/tutorials/usingdocker/
 - /engine/userguide/containers/dockerimages/
 - /engine/userguide/dockerimages/
-- /engine/userguide/intro/
+test
 - /get-started/part1/
 - /get-started/part6/
 - /getstarted/
